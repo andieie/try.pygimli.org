@@ -1,4 +1,2 @@
 pygimli
 matplotlib
-numpy
-pandas
