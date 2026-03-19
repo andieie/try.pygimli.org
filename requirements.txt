@@ -1,3 +1,4 @@
 pygimli
 matplotlib
 pyvista[jupyter]
+ipywidgets
