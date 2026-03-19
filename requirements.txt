@@ -1,2 +1,3 @@
 pygimli
 matplotlib
+pyvista[jupyter]
